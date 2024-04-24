@@ -1,6 +1,6 @@
 # Principles-of-Data-Analytics
 
-** Palmer Penguins dataset analysis executed by Vincenzo Cascone student of the Higher diplomcourse in Science in Data Analytics at [ATU](https://www.atu.ie/).
+## Palmer Penguins dataset analysis executed by Vincenzo Cascone student of the Higher diploma course in Science in Data Analytics at [ATU](https://www.atu.ie/).
 
 ! [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png) 
 
